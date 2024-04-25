@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./join.jpg",
+                "title": "JOIN",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./search.jpg",
+                "title": "SEARCH",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./get.jpg",
+                "title": "FIND",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "force": [
+            {
+                "id": 1,
+                "image": "./1.jpg",
+                "title": "FUN",
+                "category": "LOREM"
+            },
+            {
+                "id": 2,
+                "image": "./2.jpg",
+                "title": "FIGHT",
+                "category": "LOREM"
+            },
+            {
+                "id": 3,
+                "image": "./3.jpg",
+                "title": "RESEARCH",
+                "category": "LOREM"
+            },
+            {
+                "id": 4,
+                "image": "./4.jpg",
+                "title": "POWER",
+                "category": "LOREM"
+            },
+            {
+                "id": 5,
+                "image": "./5.jpg",
+                "title": "PASSION",
+                "category": "LOREM"
+            },
+            {
+                "id": 6,
+                "image": "./6.jpg",
+                "title": "PROFESSION",
+                "category": "LOREM"
+            },
+            {
+                "id": 7,
+                "image": "./7.jpg",
+                "title": "ENERGY",
+                "category": "LOREM"
+            },
+            {
+                "id": 8,
+                "image": "./8.jpg",
+                "title": "MOTIVATION",
+                "category": "LOREM"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./15.jpg",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder"
+            },
+            {
+                "id": 2,
+                "image": "./16.jpg",
+                "name": "MILI WARREN",
+                "designation": "Co Founder"
+            },
+            {
+                "id": 3,
+                "image": "./17.jpg",
+                "name": "JHON DOE",
+                "designation": "Designer"
+            },
+            {
+                "id": 4,
+                "image": "./18.jpg",
+                "name": "SOFE COAL",
+                "designation": "Developer"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "CENTERS"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "OFFICES"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "SERVICES WE PROVIDE"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
